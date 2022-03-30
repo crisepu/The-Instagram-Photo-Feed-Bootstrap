@@ -4,3 +4,16 @@
 .navbar #btnPost {
     margin-right: 5px;
 }
+.modal #textPublish {
+    width: 100%;
+    height: 100px;
+    text-align: justify;
+}
+.ajuste {
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+.card {
+    width: 600px;
+}
